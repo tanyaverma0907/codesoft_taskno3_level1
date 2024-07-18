@@ -26,19 +26,6 @@ html,body {
 }
 
 .button {
-    /* padding: 20px;
-    border-radius: 20px;
-    border-style:double;
-    border: 2px solid black;
-    cursor: pointer;
-    font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bolder;
-    width: 70px;
-    margin: 0 3px;
-    display: flex;
-    align-items: center;
-    justify-content: center; */
     display: grid;
     cursor: pointer;
     font-size: 30px;
@@ -86,11 +73,6 @@ button:active {
     background-color: #8f1272;
 }
 
-/* .container{
-    border: 8px solid black;
-    width: 65vh;
-    height: 38vw;
-    } */
 .box {
     border: 2px solid black;
     width: 300px;
